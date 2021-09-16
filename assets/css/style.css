@@ -924,13 +924,18 @@ a:hover {
   background-color: #fff;
 }
 
+.img-proj {
+  height: 18rem;
+  width: 26rem;
+}
+
 .work-box:hover img {
   transform: scale(1.3);
 }
 
 .work-img {
   display: block;
-  overflow: hidden;
+  overflow:hidden;
 }
 
 .work-img img {
